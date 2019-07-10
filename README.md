@@ -16,3 +16,7 @@ cd terbaru
 pip2 install -r requirements.txt
 
 python2 dark.pyc
+
+
+
+Ini Penipuan Jan Percaya Wkwkwkw
